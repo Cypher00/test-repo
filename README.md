@@ -1,2 +1,2 @@
 # test-repo
-learning to use this web service
+learning to use GitHub
